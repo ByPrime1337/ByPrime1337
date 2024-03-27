@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @ByPrime1337
 - 👀 I’m interested in Gaming / Programming / Riding
-- 🌱 I’m currently learning Mechatronics
+- I’m working as a Mechatronics
+- And right learning Parametric Design
